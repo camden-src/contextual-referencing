@@ -8,13 +8,19 @@
 ## PROFESSIONAL EMPLOYMENT HISTORY
 
 ### Novaprime LLC
-**Location:** Remote  
-**Role:** Staff Infrastructure Engineer  
-**Dates:** March 2024 – September 2024
-**Industry:** Mortgage Origination SaaS featuring ML quality controls and blockchain signing of mortgage document custodianship
+**Location:** Remote
+ 
+**Role:** Staff Infrastructure Engineer
+  
+**Dates:** March 2024 – September 2025
+
+**Industry:** Mortgage Origination SaaS
+Key differentiators:
+- developing ML loan quality controls
+- blockchain signing of mortgage document custodianship
 
 **Context:**
-- First full-time infrastructure hire (not first hire overall)
+- First full-time infrastructure hire (not first infrastructure hire overall)
 - Inherited existing AWS infrastructure from contractors
 - Professionalized and transformed contractor work into production-grade systems
 - Supported distributed remote team
@@ -23,11 +29,13 @@
 - Cloud infrastructure (AWS, Cloudflare, Azure, DataBricks)
 - CI/CD pipelines (GitHub Actions, FluxCD)
 - Monitoring and observability (New Relic, CloudWatch, PagerDuty)
-- Automation tooling (Python, Go)
+- Automation tooling (Bash, Go)
 - Participating in leadership meetings
+- RDS Disaster Recovery
+- Supported Digital Asset Canton blockchain deployment
 
 **Team Structure:**
-- One less senior team (participated in hiring process in Dover)
+- One less senior team member (participated in hiring process in Dover)
 - Collaborated with engineering team and contractors
 - Technical leadership role for infrastructure
 
@@ -54,24 +62,27 @@
 - DevOps best practices and documentation
 
 **Team Structure:**
-- 2 junior team members
+- 2 junior team members on New York-based team (DevOps West)
+- Coordinated efforts with peers in Nairobi (DevOps East)
 - Championed infrastructure practices organization-wide
 - Mentored junior team members on infrastructure tools and code refactoring
 
 **Special Notes:**
 - Delivered Terraform modules for EKS with FluxCD (handoff incomplete)
 - Light exposure to Ansible (cannot speak to concepts deeply)
-- Supported Digital Asset Canton blockchain deployment
 
 ---
 
 ### Roivant Sciences
 **Location:** New York, NY  
+
 **Roles:**
 - DevOps Engineer: February 2019 - June 2020
-- Software Engineering Manager, Vant Technology: June 2020 - January 2022
+- Software Engineering Manager: June 2020 - January 2022
 - Infrastructure Engineer - DevOps: January 2022 - November 2022
+
 **Dates:** February 2019 – November 2022
+
 **Industry:** Pharmaceutical R&D, Biotechnology  
 
 **Context:**
@@ -88,13 +99,12 @@
 - Monitoring and uptime protection (99.9% uptime)
 - Security and compliance (SOC2, Zero Trust, HashiCorp Vault)
 - Identity/access management (Okta integration, JWT/SAML)
+- Collaborated extensively with Security and Compliance teams in all roles
 
 **Team Structure:**
-- Multiple non-concuurent team assignments:
-  - Mid-level member of Plaform Engineering Team
-  - Team-level manager of a team of 8 engineers called "Vant Technology"
-  - Infrastructure Engineering team member
-- Collaborated extensively with Security and Compliance teams on all assignments
+- DevOps Engineer: Mid-level member of Plaform Engineering Team
+- Software Egineering Manager: Team-level manager of a team of 8 engineers called "Vant Technology"
+- Infrastructure Engineer - DevOps: Staff-level Infrastructure Engineering team member
 
 **Special Notes:**
 - Kafka/MSK production experience
@@ -105,14 +115,17 @@
 ---
 
 ### Metropolitan Museum of Art
-**Location:** New York, NY  
-**Role:** Software Development Contractor  
-**Dates:** July 2018 – February 2019 
-**Industry:** Cultural Institution, Digital Infrastructure  
+**Location:** New York, NY
+  
+**Role:** Software Development Contractor 
+ 
+**Dates:** July 2018 – February 2019
+ 
+**Industry:** Cultural Institution, Non-profit
 
 **Context:**
 - Contract software development role
-- Museum's digital infrastructure projects
+- Museum's collection software backend-focused projects
 
 **Key Responsibilities:**
 - Go-based web services development
@@ -163,6 +176,9 @@
 - Pre-Kubernetes era distributed systems (Mesos/Marathon)
 - Enterprise Splunk deployment (machine configuration, agent)
 - MongoDB exposure (long ago, not current expertise)
+- On-premises hyperscaling was ultimately chosen in favor of cloud providers at that time, but prototypes were built in AWS
+- first exposure to Terraform via training
+- Augmented a queuing system around the Rhozet video transcoder
 
 ---
 
