@@ -10,8 +10,8 @@
 ### Novaprime LLC
 **Location:** Remote  
 **Role:** Staff Infrastructure Engineer  
-**Dates:** March 2024 – September 2024 (7 months)  
-**Industry:** Mortgage Origination SaaS  
+**Dates:** March 2024 – September 2024
+**Industry:** Mortgage Origination SaaS featuring ML quality controls and blockchain signing of mortgage document custodianship
 
 **Context:**
 - First full-time infrastructure hire (not first hire overall)
@@ -20,15 +20,19 @@
 - Supported distributed remote team
 
 **Key Responsibilities:**
-- Cloud infrastructure (AWS, EKS, RDS, S3, Lambda)
+- Cloud infrastructure (AWS, Cloudflare, Azure, DataBricks)
 - CI/CD pipelines (GitHub Actions, FluxCD)
 - Monitoring and observability (New Relic, CloudWatch, PagerDuty)
 - Automation tooling (Python, Go)
+- Participating in leadership meetings
 
 **Team Structure:**
-- No direct reports
+- One less senior team (participated in hiring process in Dover)
 - Collaborated with engineering team and contractors
 - Technical leadership role for infrastructure
+
+**Titles Held:**
+- Staff Infrastructure Engineer
 
 ---
 
@@ -39,7 +43,7 @@
 **Industry:** Climate Intelligence, Agricultural Data, AI-powered Analytics  
 
 **Context:**
-- First dedicated infrastructure engineer
+- Hired to replace geographically based team lead
 - Women-led climate technology company
 - AI-powered platform for agricultural and climate data
 
@@ -50,12 +54,11 @@
 - DevOps best practices and documentation
 
 **Team Structure:**
-- No direct reports
+- 2 junior team members
 - Championed infrastructure practices organization-wide
-- Mentored developers on infrastructure tools
+- Mentored junior team members on infrastructure tools and code refactoring
 
 **Special Notes:**
-- Prototyped but did not implement ELK stack
 - Delivered Terraform modules for EKS with FluxCD (handoff incomplete)
 - Light exposure to Ansible (cannot speak to concepts deeply)
 - Supported Digital Asset Canton blockchain deployment
@@ -64,8 +67,11 @@
 
 ### Roivant Sciences
 **Location:** New York, NY  
-**Role:** DevOps Engineer  
-**Dates:** February 2019 – November 2022 (3 years, 10 months)  
+**Roles:**
+- DevOps Engineer: February 2019 - June 2020
+- Software Engineering Manager, Vant Technology: June 2020 - January 2022
+- Infrastructure Engineer - DevOps: January 2022 - November 2022
+**Dates:** February 2019 – November 2022
 **Industry:** Pharmaceutical R&D, Biotechnology  
 
 **Context:**
@@ -73,6 +79,7 @@
 - Mission-critical infrastructure supporting drug development
 - SOC2 compliance and regulatory environment
 - Platform supporting 20-25 non-engineering users
+- Most business functions adopted "Vant" as part of their unit's name
 
 **Key Responsibilities:**
 - Cloud infrastructure (GCP - GKE, Pub/Sub, BigQuery)
@@ -83,9 +90,11 @@
 - Identity/access management (Okta integration, JWT/SAML)
 
 **Team Structure:**
-- Led team of 8 engineers
-- Performance management, hiring, career development
-- Collaborated extensively with Security and Compliance teams
+- Multiple non-concuurent team assignments:
+  - Mid-level member of Plaform Engineering Team
+  - Team-level manager of a team of 8 engineers called "Vant Technology"
+  - Infrastructure Engineering team member
+- Collaborated extensively with Security and Compliance teams on all assignments
 
 **Special Notes:**
 - Kafka/MSK production experience
@@ -98,7 +107,7 @@
 ### Metropolitan Museum of Art
 **Location:** New York, NY  
 **Role:** Software Development Contractor  
-**Dates:** July 2018 – February 2019 (8 months)  
+**Dates:** July 2018 – February 2019 
 **Industry:** Cultural Institution, Digital Infrastructure  
 
 **Context:**
@@ -115,12 +124,18 @@
 - Contractor role
 - Collaborated with museum's technology team
 
+**Special Notes:**
+- Prototyped but did not implement ELK stack
+
 ---
 
 ### Getty Images
 **Location:** New York, NY  
-**Role:** Senior Software Engineer  
-**Dates:** July 2012 – July 2017 (5 years, 1 month)  
+**Roles:** Senior Software Engineer  
+**Dates:** 
+- July 2012 – July 2017
+- November 2008 - January 2012
+ 
 **Industry:** Digital Media, Content Delivery, High-Scale SaaS  
 
 **Context:**
@@ -136,9 +151,13 @@
 - Messaging (RabbitMQ)
 
 **Team Structure:**
-- Senior engineer on infrastructure team
+- Senior software engineer bridging into DevOps
 - Technical mentorship for junior engineers
 - Established deployment patterns and best practices
+
+**Notable Accomlishments:**
+- Rebuilt a mission critical editorial event coverage system from a Microsoft AccessDB customization to an enterprise-hosted web-delivered management application. Delivered ahead of schedule.
+- Built and optimized a high volume editorial image subscription distribution system. Able to get images from camera to customer within 5 minutes under high volume loads encountered during key events, such as sports championships, award shows, and notable news events.
 
 **Special Notes:**
 - Pre-Kubernetes era distributed systems (Mesos/Marathon)
@@ -146,6 +165,33 @@
 - MongoDB exposure (long ago, not current expertise)
 
 ---
+
+### Boomerang Systems
+**Location:** Florham Park, NJ
+**Role:** Software Engineering Team Lead
+**Dates:** 
+- January 2012 – July 2012
+ 
+**Industry:** Robotic Parking Garages
+
+**Context:**
+- engineering team geographically diverse
+- principal engineer located remotely within US
+- associated with other larger successful engineering projects
+
+**Key Responsibilities:**
+- Backend on-premises office infrastructure (Windows Server Racks)
+- Hardware network construction (cabling and patch bay configuration)
+- Access Controls (Active Directory, application enforced)
+- SDLC Framework(TFS)
+- Team standards, technical, operational, and procedural
+- Communication and collaboration with the offshore team
+
+**Team Structure:**
+- Team lead of 11 engineers spanning coding, database, integration, and testing disciplines
+
+**Special Notes:**
+- short term tenure, measurable results not available
 
 ## CAREER GAPS & INTENTIONAL BREAKS
 
